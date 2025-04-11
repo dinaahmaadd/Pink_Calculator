@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pink Calculator (March 25)", "Calculato Lab Task (March 25)\Pink Calculator (March 25).csproj", "{2188003D-EDEF-49A5-BA26-2E9C57B43F1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2188003D-EDEF-49A5-BA26-2E9C57B43F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2188003D-EDEF-49A5-BA26-2E9C57B43F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2188003D-EDEF-49A5-BA26-2E9C57B43F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2188003D-EDEF-49A5-BA26-2E9C57B43F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2211BC3-7BED-4000-ADF9-679E57C355A2}
+	EndGlobalSection
+EndGlobal
